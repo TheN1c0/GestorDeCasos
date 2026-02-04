@@ -1,0 +1,19 @@
+# Dependencias
+node_modules/
+venv/
+.env/
+
+# Archivos de entorno
+.env
+.env.local
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
