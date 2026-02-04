@@ -2,7 +2,7 @@
 node_modules/
 venv/
 .env/
-
+dist/
 # Archivos de entorno
 .env
 .env.local
@@ -17,3 +17,6 @@ Thumbs.db
 # IDE / Editor
 .vscode/
 .idea/
+
+# Prisma
+.prisma/
